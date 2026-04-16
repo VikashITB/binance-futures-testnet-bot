@@ -1,0 +1,5 @@
+2026-04-16 22:30:05 | INFO     | cli | Request | BTCUSDT SELL LIMIT qty=0.001
+2026-04-16 22:30:05 | INFO     | client | Connected to Binance Futures Testnet.
+2026-04-16 22:30:05 | INFO     | order | Placing LIMIT SELL order | BTCUSDT | Qty=0.001 | Price=95000.0
+2026-04-16 22:30:06 | INFO     | order | LIMIT order placed successfully | ID=13040292013
+2026-04-16 22:30:06 | DEBUG    | order | {'orderId': 13040292013, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'ftc2zizl29feyHrNZ4dZXW', 'price': '95000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776358807002}

@@ -1,0 +1,5 @@
+2026-04-16 22:29:13 | INFO     | cli | Request | BTCUSDT BUY MARKET qty=0.001
+2026-04-16 22:29:13 | INFO     | client | Connected to Binance Futures Testnet.
+2026-04-16 22:29:13 | INFO     | order | Placing MARKET BUY order | BTCUSDT | Qty=0.001
+2026-04-16 22:29:15 | INFO     | order | MARKET order placed successfully | ID=13040290023
+2026-04-16 22:29:15 | DEBUG    | order | {'orderId': 13040290023, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'h4lxtCz6eNmgaMn9CU7K9X', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776358756206}
